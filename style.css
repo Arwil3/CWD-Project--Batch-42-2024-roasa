@@ -1,0 +1,23 @@
+.dashboard-title {
+    font-weight:500 500;
+}
+
+a, .footer-text {
+    font-weight: 100;
+    font-size:small ;
+}
+
+.card-value {
+    font-weight: 200;
+    font-size: 22px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
